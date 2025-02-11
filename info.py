@@ -9,7 +9,7 @@ from os import environ
 
 API_ID       = int(environ.get("API_ID", ""))
 API_HASH     = environ.get("API_HASH", "")
-BOT_TOKEN    = environ.get("BOT_TOKEN", "")
+BOT_TOKEN    = environ.get("BOT_TOKEN", "7490778826:AAHQocs5ICH4SsMdBfvbS1eAB52FnEajCbM")
 DATABASE_URI = environ.get("DATABASE_URI", "")
 LOG_CHANNEL  = int(environ.get("LOG_CHANNEL", ""))
 ADMIN        = int(environ.get("ADMIN", ""))
